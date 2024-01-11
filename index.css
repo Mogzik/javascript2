@@ -1,0 +1,81 @@
+
+body {
+
+    background-color: rgb(0, 0, 77);
+}
+
+#imie{
+
+    font-size:2cm ;
+    color: rgb(17, 100, 255);
+    font-weight: bold;
+    display: inline;
+    font-family:arial;
+
+}
+
+#strona {
+
+    font-size:7mm ;
+    color:rgb(17, 100, 255);
+    display:inline;
+    font-family:arial;
+
+}
+
+#diwy{
+
+    background-color: rgb(0,0,113);
+    width:1000px;
+    height:200px;
+    margin: auto;
+    border: 3px solid rgb(0,0,180);
+  
+    
+    border-radius: 50px;
+}
+
+#srodek{
+
+    font-size:9mm;
+    font-family: monospace;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+#guzik{
+
+background-color:rgb(0,0,113); 
+border: 3px solid rgb(0, 174, 255);
+width:200px;
+height:40px;
+border-radius: 20px;
+color:white;
+text-align:center;
+margin-left:30px ;
+
+
+
+}
+
+@media all and (min-width:390px) and (max-width:820px) {
+    #diwy {
+    background-color:rgb(112, 73, 0);
+    }
+   }
+   
+#kodzik {
+
+    background-color:rgb(0,0,113); 
+    border: 3px solid rgb(255, 174, 0);
+    width:200px;
+    height:40px;
+    border-radius: 20px;
+    color:white;
+    text-align:center;
+    margin-left:30px ;
+    
+
+
+}
