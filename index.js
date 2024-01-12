@@ -8,7 +8,7 @@ window.open("zadanie3_maz.html","okienko_z3","toolbar=no,directories=no,menubar=
 }
 function WinOpen_z4()
 {
-window.open("zadanie4_syk.html","okienko_z4","toolbar=no,directories=no,menubar=no,height=600,width=1200,top=200,left=200");
+window.open("zadanie4_maz.html","okienko_z4","toolbar=no,directories=no,menubar=no,height=600,width=1200,top=200,left=200");
 }
 
 
